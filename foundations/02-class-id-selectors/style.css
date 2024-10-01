@@ -1,0 +1,19 @@
+.odd{
+    font-family: sans-serif;
+    font-size: 28px;
+    background-color: #de8184;
+}
+
+.bigger{
+    font-size: 36px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four{
+    background-color: lime;
+    font-weight: bold;
+}
